@@ -12,6 +12,9 @@ namespace gitHUBtest
         {
             Console.WriteLine("LOL");
             Console.WriteLine("TEST");
+            Console.WriteLine("README+toto");
+            Console.WriteLine("BRANCH");
+            Console.WriteLine("README2");
         }
     }
 }
