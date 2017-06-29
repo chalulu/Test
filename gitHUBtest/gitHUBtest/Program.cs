@@ -11,6 +11,7 @@ namespace gitHUBtest
         static void Main(string[] args)
         {
             Console.WriteLine("LOL");
+            Console.WriteLine("TEST");
         }
     }
 }
